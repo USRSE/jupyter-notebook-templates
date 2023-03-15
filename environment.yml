@@ -1,0 +1,11 @@
+name: us-rse23-interactive-notebook
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - matplotlib
+  - networkx
+
