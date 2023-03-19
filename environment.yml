@@ -1,4 +1,4 @@
-name: us-rse23-interactive-notebook
+name: us-rse23-web-application
 channels:
   - conda-forge
   - defaults
@@ -8,4 +8,6 @@ dependencies:
   - jupyterlab
   - matplotlib
   - networkx
+  - voila
+  - ipywidgets
 
